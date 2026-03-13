@@ -35,14 +35,14 @@ const _layout = () => {
         headerShown: false,
         tabBarShowLabel: false, // We render our own label in TabIcon
         tabBarStyle: {
-          backgroundColor: "#0f0f1a",
-          borderTopColor: "#2a2a4a",
+          backgroundColor: "#0F0D23",
+          borderTopColor: "#221F3D",
           borderTopWidth: 1,
           height: 90,
           paddingBottom: 8,
         },
-        tabBarActiveTintColor: "#6C63FF",
-        tabBarInactiveTintColor: "#555577",
+        tabBarActiveTintColor: "#D6C6FF",
+        tabBarInactiveTintColor: "#A8B5DB",
       }}
     >
       <Tabs.Screen
